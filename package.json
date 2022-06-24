@@ -1,0 +1,22 @@
+{
+  "name": "pixel-image-client-call",
+  "version": "1.0.0",
+  "description": "From the \"Get started\" section of the Apollo Client docs.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/client": "3.6.6",
+    "graphql": "15.8.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
